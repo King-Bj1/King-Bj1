@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @King-Bj1
+- 👋 Hi, I’m Dostod
 - 👀 Je suis intéressé par le js
 - 🌱 J'apprends actuellement le php
 - 💞️ Je cherche à atteindre mes projets
